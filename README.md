@@ -1,5 +1,5 @@
 - Hi, I’m Sebastian Adam
-- I’m interested in coding, economics, history and fitness
+- I’m interested in coding, economics, philosphy, history and fitness
 - I’m currently learning Python
 
 <!---
